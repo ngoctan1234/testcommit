@@ -3,3 +3,7 @@ body{
     height:100vh;
     background:green;
 }
+.contain{
+    color:aqua;
+    font-size: 20px;
+}
