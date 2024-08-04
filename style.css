@@ -3,10 +3,15 @@ body{
     height:100vh;
     background:green;
 }
+
+.tho{
+    color:blueviolet;
+}
 .contain{
     color:aqua;
     font-size: 20px;
 }
 .tho{
-    background-color: #7f9b62;
+    background-color: #cc2d2d;
+    font-size: 60px;
 }
