@@ -10,8 +10,10 @@ body{
 .contain{
     color:aqua;
     font-size: 20px;
+    padding:10px;
 }
 .tho{
     background-color: #cc2d2d;
     font-size: 60px;
+    padding:10px;
 }
